@@ -1,0 +1,6 @@
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\Duck Simulation\bin\Debug\Duck Simulation.dll
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\Duck Simulation\bin\Debug\Duck Simulation.pdb
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\Duck Simulation\obj\Debug\Duck Simulation.csprojAssemblyReference.cache
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\Duck Simulation\obj\Debug\Duck Simulation.csproj.CoreCompileInputs.cache
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\Duck Simulation\obj\Debug\Duck Simulation.dll
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\Duck Simulation\obj\Debug\Duck Simulation.pdb

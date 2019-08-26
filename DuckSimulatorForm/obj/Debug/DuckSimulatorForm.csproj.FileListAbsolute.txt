@@ -1,0 +1,13 @@
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\bin\Debug\DuckSimulatorForm.exe.config
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\bin\Debug\DuckSimulatorForm.exe
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\bin\Debug\DuckSimulatorForm.pdb
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\bin\Debug\Duck Simulation.dll
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\bin\Debug\Duck Simulation.pdb
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\obj\Debug\DuckSimulatorForm.csprojAssemblyReference.cache
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\obj\Debug\Duck_Simulation.DuckSimulator.resources
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\obj\Debug\DuckSimulatorForm.Properties.Resources.resources
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\obj\Debug\DuckSimulatorForm.csproj.GenerateResource.cache
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\obj\Debug\DuckSimulatorForm.csproj.CoreCompileInputs.cache
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\obj\Debug\DuckSimulatorForm.csproj.CopyComplete
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\obj\Debug\DuckSimulatorForm.exe
+C:\Users\lennyphilips\Documents\158.326\Tutorial_6\Duck Simulation\DuckSimulatorForm\obj\Debug\DuckSimulatorForm.pdb
